@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  go:
+    image: tarfeef101/hello_world_go
+    build: .
